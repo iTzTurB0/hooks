@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.movie-card {
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.movie-card img {
+  width: 200px;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
